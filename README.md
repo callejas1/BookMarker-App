@@ -1,6 +1,6 @@
 # BookMarker-app
 
-This BookMarker Application was inspired by a youtube tutorial made by <a href="https://www.youtube.com/watch?v=32qhBZacCNc&list=LL&index=5">Fascinating websites</a>
+This BookMarker Application was inspired by <a href="https://www.youtube.com/watch?v=32qhBZacCNc&list=LL&index=5">Fascinating websites</a>
 
 The idea behind this is to help you save your favorite websites in a single place, without having to clog your browser's default bookmarks. 
 
